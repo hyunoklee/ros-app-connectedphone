@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+
+    <ImageButton
+        android:id="@+id/btnSpeak"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@null"
+        android:scaleType="fitXY"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:src="@drawable/ico_mic"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="16dp"
+        android:orientation="vertical">
+
+
+
+        <Button
+            android:id="@+id/Button0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="0. 시작 \n음성 예)시작 하세요 " />
+
+            <TextView
+                android:id="@+id/txtSpeechInput"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_margin="10dp"
+                android:textSize="15dp"
+                android:textStyle="normal"
+                android:text=" 아래 버튼들은 facetracking 작동 중에만 동작 "/>
+
+        <Button
+            android:id="@+id/Button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="1. 정지 \n음성 예)정지 하세요. " />
+        <Button
+            android:id="@+id/Button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="2. 폰내려 놓기\n음성 예)내려 놓으세요." />
+
+        <Button
+            android:id="@+id/Button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="3. 파노라마 샷 찍기\n음성 예)파노라마 찍어 주세요." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="10dp"
+            android:textSize="15dp"
+            android:textStyle="normal"
+            android:text=" 아래 버튼들은 음성인식 동작 없음"/>
+
+        <Button
+            android:id="@+id/Button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="4. 초기자세" />
+
+        <!--<Switch
+            android:id="@+id/smile_audio_set"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:textSize="15dp"
+            android:textColor="#ff0000"
+            android:textStyle="bold"
+            android:text="웃음 감지 Sount SET "
+            android:textAlignment="center"
+            android:typeface="monospace"/>
+
+        <Switch
+            android:id="@+id/smile_set_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:textSize="15dp"
+            android:textColor="#ff0000"
+            android:textStyle="bold"
+            android:text="웃음 감지 Action SET "
+            android:textAlignment="center"
+            android:typeface="monospace"/>-->
+
+        <Button
+            android:id="@+id/Button5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="6. Simile Action 실행 "
+            android:visibility="visible"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+
+</ScrollView>

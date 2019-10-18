@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PubFaceTracker</string>
+    <string name="speech_prompt">Say something...</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+
+</resources>

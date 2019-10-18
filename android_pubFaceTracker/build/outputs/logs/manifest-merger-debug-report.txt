@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:2:1-43:12
+MERGED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/8e360c9e8b282316c1cdf5c62d98e389/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/152ebc54390c73abeb4f83a64c833b8f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/55921eebc1aa9c3ba951d86e75d14243/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/5eb4d76b450fef4805e5389132f7d67b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/7173b16b32ea2e719fe4c49c3b53b26b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/eec1a57dd3983300057eb7ff7a4ed1a0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/bd3dfa86d729735027093d0e2420f073/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/291aad2a010e884679e7e2a4c7b187a1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/7233f797c564733872492cbc4097f60f/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:4:5-45
+	android:versionName
+		INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:2:1-43:12
+		INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:2:1-43:12
+		INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:7:5-68
+MERGED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-68
+MERGED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:8:5-78
+MERGED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-78
+MERGED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:8:22-75
+application
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:10:5-41:19
+MERGED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-34:19
+MERGED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-34:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/8e360c9e8b282316c1cdf5c62d98e389/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/8e360c9e8b282316c1cdf5c62d98e389/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/152ebc54390c73abeb4f83a64c833b8f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/152ebc54390c73abeb4f83a64c833b8f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/55921eebc1aa9c3ba951d86e75d14243/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/55921eebc1aa9c3ba951d86e75d14243/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/5eb4d76b450fef4805e5389132f7d67b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/5eb4d76b450fef4805e5389132f7d67b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/7173b16b32ea2e719fe4c49c3b53b26b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/7173b16b32ea2e719fe4c49c3b53b26b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/eec1a57dd3983300057eb7ff7a4ed1a0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/eec1a57dd3983300057eb7ff7a4ed1a0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/bd3dfa86d729735027093d0e2420f073/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/bd3dfa86d729735027093d0e2420f073/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/291aad2a010e884679e7e2a4c7b187a1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/291aad2a010e884679e7e2a4c7b187a1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/7233f797c564733872492cbc4097f60f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/7233f797c564733872492cbc4097f60f/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:11:9-38
+		REJECTED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:9-36
+	android:allowBackup
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:13:9-35
+	tools:replace
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:14:9-37
+receiver#org.ros.android.pubFaceTracker.MyReceiver
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:15:9-22:20
+	android:enabled
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:17:13-35
+	android:exported
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:16:13-39
+intent-filter#org.ros.android.pubsubSample.facetracking
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:19:13-21:29
+action#org.ros.android.pubsubSample.facetracking
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:20:17-91
+	android:name
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:20:25-81
+activity#org.ros.android.pubFaceTracker.MainActivity
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:24:9-33:20
+	android:screenOrientation
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:26:13-49
+	android:label
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:25:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:31:27-74
+activity#org.ros.android.MasterChooser
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:34:9-66
+MERGED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:9-25:54
+MERGED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:9-25:54
+	android:label
+		ADDED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:13-45
+	android:launchMode
+		ADDED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-42
+	android:theme
+		ADDED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-51
+	android:name
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:34:19-63
+service#org.ros.android.NodeMainExecutorService
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:36:9-40:19
+MERGED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:9-33:19
+MERGED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:9-33:19
+	tools:ignore
+		ADDED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:13-43
+	android:name
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:36:18-72
+intent-filter#org.ros.android.NodeMainExecutorService
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:37:13-39:29
+action#org.ros.android.NodeMainExecutorService
+ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml:38:25-79
+uses-sdk
+INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+MERGED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/8e360c9e8b282316c1cdf5c62d98e389/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/8e360c9e8b282316c1cdf5c62d98e389/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/152ebc54390c73abeb4f83a64c833b8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/152ebc54390c73abeb4f83a64c833b8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/55921eebc1aa9c3ba951d86e75d14243/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/55921eebc1aa9c3ba951d86e75d14243/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/5eb4d76b450fef4805e5389132f7d67b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/5eb4d76b450fef4805e5389132f7d67b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/7173b16b32ea2e719fe4c49c3b53b26b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/7173b16b32ea2e719fe4c49c3b53b26b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/eec1a57dd3983300057eb7ff7a4ed1a0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/eec1a57dd3983300057eb7ff7a4ed1a0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/bd3dfa86d729735027093d0e2420f073/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/bd3dfa86d729735027093d0e2420f073/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/291aad2a010e884679e7e2a4c7b187a1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/291aad2a010e884679e7e2a4c7b187a1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/7233f797c564733872492cbc4097f60f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/7233f797c564733872492cbc4097f60f/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/hyunoklee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/8e360c9e8b282316c1cdf5c62d98e389/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+		INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+		ADDED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+		INJECTED from /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_pubFaceTracker/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [:android_10] /home/hyunoklee/AndroidStudioProjects/ros-app-connectedphone/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:22-73
